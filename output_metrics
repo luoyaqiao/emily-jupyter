@@ -1,0 +1,1351 @@
+featureId : 302, featureName: dk18:maximum_daysdlq_cnt, train auc: 0.9503648368522243, train f1: 0.6798336798336799
+tpr: 0.1104, fpr: 0.0694, precision: 0.6140155728587319, f1: 0.187150364468554
+
+featureId : 282, featureName: dk15:cmt_blk_cd_3, train auc: 0.4068229803311479, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.1558, precision: 0.0, f1: nan
+
+featureId : 266, featureName: dk9:arrears_am, train auc: 0.9829775180925309, train f1: 0.7876620473848904
+tpr: 0.1252, fpr: 0.0383, precision: 0.7657492354740061, f1: 0.21521272024065322
+
+featureId : 3, featureName: dk1:prod_name_pers_od, train auc: 0.41532392488054226, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.1752, precision: 0.0, f1: nan
+
+featureId : 257, featureName: dk4:days_dlq, train auc: 0.9513457428225736, train f1: 0.6969580284944167
+tpr: 0.1003, fpr: 0.0567, precision: 0.6388535031847133, f1: 0.17337942955920482
+
+featureId : 484, featureName: trans15:sum_ctgy_payment_am, train auc: 0.23452578091982468, train f1: 0.19373606128187723
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 258, featureName: dk5:acct_bal_am, train auc: 0.46800626865078465, train f1: 0.1977412324152962
+tpr: 0.1197, fpr: 0.8034, precision: 0.12967175820604485, f1: 0.12448650616192607
+
+featureId : 269, featureName: dk12:num_delq, train auc: -0.8849894965574485, train f1: 0.4896401308615049
+tpr: 0.1182, fpr: 0.8814, precision: 0.11824729891956783, f1: 0.11822364472894578
+
+featureId : 466, featureName: dk50:wealth_bal_am, train auc: 0.2669005069827384, train f1: 0.18203309692671396
+tpr: 0.1747, fpr: 0.8249, precision: 0.17476990796318528, f1: 0.17473494698939787
+
+featureId : 303, featureName: dk19:score_007, train auc: 0.5850980889318482, train f1: 0.33255736614566017
+tpr: 0.1195, fpr: 0.3693, precision: 0.24447626841243864, f1: 0.1605319720580333
+
+featureId : 473, featureName: trans4:sum_PDA_interest_db_am, train auc: 0.2822289389685767, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 260, featureName: dk6:prod_type_account_PDA, train auc: 0.29069896655183913, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.2846, precision: 0.0, f1: nan
+
+featureId : 433, featureName: dk25:triad_v5_score, train auc: 0.5880986443271141, train f1: 0.33450527373179306
+tpr: 0.1289, fpr: 0.4062, precision: 0.24088955335451318, f1: 0.16793694221874797
+
+featureId : 497, featureName: bcb6:beacon_bnkrpt_sc, train auc: -0.82300430983618, train f1: 0.4515355086372362
+tpr: 0.0103, fpr: 0.1353, precision: 0.07074175824175824, f1: 0.01798184357541899
+
+featureId : 483, featureName: trans14:sum_ctgy_deposit_am, train auc: 0.29271439750381856, train f1: 0.18201654695881445
+tpr: 0.1899, fpr: 0.8101, precision: 0.1899, f1: 0.1899
+
+featureId : 444, featureName: dk36:max_ddq_12m, train auc: 0.9481184445069322, train f1: 0.678021086780211
+tpr: 0.047, fpr: 0.0067, precision: 0.8752327746741154, f1: 0.08920945240580809
+
+featureId : 435, featureName: dk27:credit_util_rt, train auc: 0.7128877900630317, train f1: 0.4213938411669368
+tpr: 0.0836, fpr: 0.0604, precision: 0.5805555555555556, f1: 0.14615384615384613
+
+featureId : 471, featureName: trans2:sum_PDA_pos_dbcrd_db_am, train auc: 0.226205731150725, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 485, featureName: trans16:sum_ctgy_retl_purchs_am, train auc: 0.41088875564928456, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 445, featureName: dk37:rv_pymt_6m, train auc: -0.890829195251909, train f1: 0.5068719076415613
+tpr: 0.1398, fpr: 0.8602, precision: 0.1398, f1: 0.1398
+
+featureId : 437, featureName: dk29:max_cto_avg, train auc: 0.3921507984181615, train f1: 0.18198345604945002
+tpr: 0.1506, fpr: 0.7687, precision: 0.1638202980528663, f1: 0.1569322148700047
+
+featureId : 477, featureName: trans8:sum_chnl_pos_db_am, train auc: 0.20335970285964727, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 304, featureName: dk20:total_debt, train auc: -0.8768661608421583, train f1: 0.5748109174613614
+tpr: 0.1047, fpr: 0.8951, precision: 0.10472094418883776, f1: 0.10471047104710471
+
+featureId : 271, featureName: dk14:block_cd_0, train auc: -0.9788865429492165, train f1: 0.8404701931150294
+tpr: 0.0897, fpr: 0.0441, precision: 0.6704035874439462, f1: 0.15822896454401128
+
+featureId : 281, featureName: dk15:cmt_blk_cd_0, train auc: 0.6604633837104111, train f1: 0.24688001977017174
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 509, featureName: bcb18:bni_score_cd, train auc: -0.9051634552801349, train f1: 0.5728779168075753
+tpr: 0.0936, fpr: 0.1212, precision: 0.43575418994413406, f1: 0.15409944023707609
+
+featureId : 452, featureName: dk44:comp_mtg_in, train auc: 0.3021446827425269, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.2961, precision: 0.0, f1: nan
+
+featureId : 443, featureName: dk35:cadpcc_6m, train auc: 0.9568592314452965, train f1: 0.6992266992266992
+tpr: 0.0977, fpr: 0.0355, precision: 0.7334834834834835, f1: 0.17243205082950933
+
+featureId : 480, featureName: trans11:sum_chnl_pre_arr_cr_am, train auc: 0.2211161990581926, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 490, featureName: mccTrans3:sum_5812, train auc: 0.3053393989053507, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 264, featureName: dk7:init_days_dlq, train auc: 0.7442846629978533, train f1: 0.430597771023303
+tpr: 0.087, fpr: 0.2192, precision: 0.2841280209013716, f1: 0.13321084060633898
+
+featureId : 495, featureName: bcb4:avg_months_on_file_cd, train auc: -0.8258893012754553, train f1: 0.46818181818181814
+tpr: 0.156, fpr: 0.8439, precision: 0.156015601560156, f1: 0.1560078003900195
+
+featureId : 436, featureName: dk28:cust_tenure, train auc: 0.21164661541370064, train f1: 0.18198345604945002
+tpr: 0.1392, fpr: 0.8608, precision: 0.1392, f1: 0.1392
+
+featureId : 267, featureName: dk10:ovrlmt_amt, train auc: 0.9034773982545958, train f1: 0.7634854771784232
+tpr: 0.0988, fpr: 0.0198, precision: 0.8330522765598651, f1: 0.17664938315751832
+
+featureId : 11, featureName: dk1:prod_name_sbb_cas_unauth_od, train auc: 0.7612387612387612, train f1: 0.6863517060367453
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 488, featureName: mccTrans1:sum_13, train auc: 0.7171178638008284, train f1: 0.26638023630504837
+tpr: 0.0307, fpr: 0.9693, precision: 0.0307, f1: 0.0307
+
+featureId : 462, featureName: dk46:min_bal_last_6m_am, train auc: 0.7093767439361395, train f1: 0.3621894409937888
+tpr: 0.0464, fpr: 0.2909, precision: 0.13756300029647198, f1: 0.06939355417632544
+
+featureId : 441, featureName: dk33:max_bl_dep, train auc: 0.2556351305101166, train f1: 0.18198345604945002
+tpr: 0.0805, fpr: 0.8388, precision: 0.0875666267812466, f1: 0.08388474964830928
+
+featureId : 305, featureName: dk21:prov_cd_ON, train auc: 0.23493502830095786, train f1: 0.18198345604945002
+tpr: 0.0034, fpr: 0.5381, precision: 0.006278855032317636, f1: 0.004411287706779111
+
+featureId : 447, featureName: dk39:rv_prop_util, train auc: 0.2293438864724563, train f1: 0.18198345604945002
+tpr: 0.1004, fpr: 0.651, precision: 0.133617247804099, f1: 0.11465113623387005
+
+featureId : 470, featureName: trans1:sum_PDA_payroll_cr_am, train auc: 0.3514773369757257, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 463, featureName: dk47:min_ca_bal_am, train auc: 0.617972093469371, train f1: 0.2819139747797547
+tpr: 0.0189, fpr: 0.1565, precision: 0.10775370581527936, f1: 0.0321592649310873
+
+featureId : 501, featureName: bcb10:n30d_n60d_pstdue_trade_cd, train auc: 0.22903693706005074, train f1: 0.18198345604945002
+tpr: 0.0177, fpr: 0.4918, precision: 0.034739941118743865, f1: 0.02345147399801259
+
+featureId : 442, featureName: dk34:max_cto_500, train auc: 0.3122988246335285, train f1: 0.18522096112050232
+tpr: 0.0781, fpr: 0.5526, precision: 0.12383066434120818, f1: 0.09578708530079107
+
+featureId : 494, featureName: bcb3:all_open_trade_cd, train auc: 0.24542753612650273, train f1: 0.2053347849755035
+tpr: 0.1279, fpr: 0.6827, precision: 0.15778435726622256, f1: 0.14127913398873304
+
+featureId : 446, featureName: dk38:vsa_balc_6m, train auc: 0.6375244935084917, train f1: 0.515802781289507
+tpr: 0.0443, fpr: 0.0147, precision: 0.7508474576271187, f1: 0.08366383380547686
+
+featureId : 464, featureName: dk48:oldest_trd_age, train auc: -0.8902878430603733, train f1: 0.6268540202966432
+tpr: 0.1583, fpr: 0.8417, precision: 0.1583, f1: 0.1583
+
+featureId : 502, featureName: bcb11:mtg_payt_amount_cd, train auc: 0.384972900196814, train f1: 0.18198345604945002
+tpr: 0.0113, fpr: 0.2522, precision: 0.0428842504743833, f1: 0.017886822318955282
+
+featureId : 491, featureName: bcb0:max_n12m_dlnqnt_trade_cd, train auc: -0.8712945572041028, train f1: 0.47848168938786423
+tpr: 0.0863, fpr: 0.9083, precision: 0.08676855017092298, f1: 0.08653364083024165
+
+featureId : 492, featureName: bcb1:n12m_active_rtype_trade_ct, train auc: 0.23947121885781736, train f1: 0.18198345604945002
+tpr: 0.1284, fpr: 0.6491, precision: 0.16514469453376207, f1: 0.14447257383966244
+
+featureId : 508, featureName: bcb17:unpaid_chgoff_collct_total_cd, train auc: 0.9623247071852473, train f1: 0.8092158447857719
+tpr: 0.1078, fpr: 0.0446, precision: 0.7073490813648294, f1: 0.18708781673030198
+
+featureId : 504, featureName: bcb13:nontc_open_insttl_balnce_cd, train auc: 0.31773954459808446, train f1: 0.18198345604945002
+tpr: 0.0045, fpr: 0.4376, precision: 0.010178692603483374, f1: 0.0062408986894112745
+
+featureId : 451, featureName: dk43:sal_deposit_12m, train auc: 0.6466285686754627, train f1: 0.33148537564519215
+tpr: 0.0513, fpr: 0.3142, precision: 0.14035567715458278, f1: 0.07513731233980228
+
+featureId : 265, featureName: dk8:max_cycle_dlq, train auc: 0.6479079316061204, train f1: 0.4115195149677908
+tpr: 0.0367, fpr: 0.0192, precision: 0.6565295169946332, f1: 0.06951415853774033
+
+featureId : 449, featureName: dk41:inq_l6m_cnt, train auc: 0.9189912210247804, train f1: 0.6962962962962962
+tpr: 0.0639, fpr: 0.0025, precision: 0.9623493975903614, f1: 0.11984246061515377
+
+featureId : 432, featureName: dk24:credit_limit, train auc: -0.8401739942466689, train f1: 0.482886216466235
+tpr: 0.1578, fpr: 0.8422, precision: 0.1578, f1: 0.1578
+
+featureId : 259, featureName: dk6:prod_type_account_LON, train auc: 0.7422577422577423, train f1: 0.6527590847913862
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 481, featureName: trans12:sum_chnl_pre_arr_db_am, train auc: 0.27083639773938695, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 503, featureName: bcb12:nontc_open_trdlin_balnce_cd, train auc: 0.20998370448309334, train f1: 0.18198345604945002
+tpr: 0.0073, fpr: 0.6398, precision: 0.01128110029361768, f1: 0.008864064112682897
+
+featureId : 268, featureName: dk11:visa_credit_util_rt, train auc: 0.6838184040650981, train f1: 0.39033633349123636
+tpr: 0.0558, fpr: 0.0461, precision: 0.5475956820412169, f1: 0.10127960794990472
+
+featureId : 434, featureName: dk26:maxsalry_am, train auc: 0.7023536525703433, train f1: 0.3204096561814192
+tpr: 0.0893, fpr: 0.1882, precision: 0.3218018018018018, f1: 0.13980430528375734
+
+featureId : 499, featureName: bcb8:currnt_n90d_trade_balnce_hd, train auc: 0.9620246960506988, train f1: 0.8884422110552763
+tpr: 0.0886, fpr: 0.0053, precision: 0.9435569755058573, f1: 0.16198921290794405
+
+featureId : 450, featureName: dk42:paymnt_pb_score, train auc: 0.8066395211633574, train f1: 0.509782001117943
+tpr: 0.0485, fpr: 0.0238, precision: 0.6708160442600276, f1: 0.09045975939569152
+
+featureId : 493, featureName: bcb2:n24m_inq_ct, train auc: 0.809569694668039, train f1: 0.6933760683760684
+tpr: 0.0669, fpr: 0.0198, precision: 0.7716262975778547, f1: 0.12312505751357321
+
+featureId : 498, featureName: bcb7:bnkcrd_trade_balnce_hd, train auc: 0.7716627188790761, train f1: 0.7394594594594593
+tpr: 0.0525, fpr: 0.0224, precision: 0.7009345794392523, f1: 0.09768350544236673
+
+featureId : 496, featureName: bcb5:most_recent_dlnqnt_month_cd, train auc: 0.5116948836250981, train f1: 0.2222534419780837
+tpr: 0.0683, fpr: 0.4992, precision: 0.12035242290748899, f1: 0.08714513556618819
+
+featureId : 296, featureName: dk17:max_dlq_status_cd_1, train auc: 0.265529503278142, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.4611, precision: 0.0, f1: nan
+
+featureId : 479, featureName: trans10:sum_chnl_system_db_am, train auc: 0.9387390029683618, train f1: 0.6694180767643417
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 500, featureName: bcb9:open_unscrd_trade_crlimt_hd, train auc: 0.2459177670867859, train f1: 0.18198345604945002
+tpr: 0.0993, fpr: 0.728, precision: 0.12002901003263629, f1: 0.10868494500082089
+
+featureId : 448, featureName: dk40:bur_util, train auc: 0.258946187716051, train f1: 0.18198345604945002
+tpr: 0.097, fpr: 0.8223, precision: 0.10551506581094311, f1: 0.10107851820976398
+
+featureId : 440, featureName: dk32:min_cto_500, train auc: 0.34146823284505246, train f1: 0.19178421182875527
+tpr: 0.0733, fpr: 0.5406, precision: 0.11940055383612966, f1: 0.09083586343639631
+
+featureId : 476, featureName: trans7:sum_chnl_td_atm_cr_am, train auc: 0.4198151553968868, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 0, featureName: dk0:dayofmonth, train auc: -1, train f1: -1
+Skipping invalid feature: dk0:dayofmonth
+featureId : 255, featureName: dk3:security_in_N, train auc: 0.556736851325139, train f1: 0.20061037639877927
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 272, featureName: dk14:block_cd_B, train auc: 0.4979442160240027, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.005, precision: 0.0, f1: nan
+
+featureId : 465, featureName: dk49:trd_pstdue_cnt, train auc: 0.8887842349893689, train f1: 0.7422303473491774
+tpr: 0.0298, fpr: 0.002, precision: 0.9371069182389937, f1: 0.057763132389998056
+
+featureId : 510, featureName: bcb19:scheda_climit_am, train auc: 0.36486271812419163, train f1: 0.18198345604945002
+tpr: 0.0449, fpr: 0.5291, precision: 0.07822299651567945, f1: 0.05705209656925032
+
+featureId : 486, featureName: trans17:sum_ctgy_fee_srv_chrg_am, train auc: 0.6076073054626228, train f1: 0.30567685589519644
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 270, featureName: dk13:num_custs, train auc: 0.4096686178584167, train f1: 0.18198345604945002
+tpr: 0.0933, fpr: 0.8265, precision: 0.10143509458577951, f1: 0.09719762475257838
+
+featureId : 256, featureName: dk3:security_in_Y, train auc: 0.45658464216081723, train f1: 0.18198345604945002
+tpr: 0.0068, fpr: 0.1342, precision: 0.04822695035460993, f1: 0.011919368974583698
+
+featureId : 333, featureName: dk22:div_cd_0, train auc: 0.37986721579342986, train f1: 0.18198345604945002
+tpr: 0.0023, fpr: 0.28, precision: 0.008147360963513992, f1: 0.0035873040630117754
+
+featureId : 2, featureName: dk1:prod_name_pers_unsec_loc, train auc: 0.9618857639748849, train f1: 0.7488755622188906
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 507, featureName: bcb16:revtrd_n30d_late_months_cd, train auc: 0.5653397052997009, train f1: 0.25106837606837606
+tpr: 0.064, fpr: 0.3449, precision: 0.15651748593788212, f1: 0.09085101852509049
+
+featureId : 489, featureName: mccTrans2:sum_5411, train auc: 0.5566594201442517, train f1: 0.24377063944761332
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 505, featureName: bcb14:high_credit_total_cd, train auc: 0.3612643607087434, train f1: 0.20349729011146334
+tpr: 0.0833, fpr: 0.7719, precision: 0.09740411599625819, f1: 0.08980163863734368
+
+featureId : 438, featureName: dk30:max_bl_num, train auc: 0.22495328873815373, train f1: 0.18219952580703996
+tpr: 0.1039, fpr: 0.8909, precision: 0.10444310414153599, f1: 0.10417084419490674
+
+featureId : 277, featureName: dk14:block_cd_C, train auc: 0.7304914221238258, train f1: 0.6294277929155313
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 263, featureName: dk6:prod_type_account_CDA, train auc: 0.7658987306725944, train f1: 0.6828025477707006
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 289, featureName: dk16:sec_cd_3, train auc: 0.4710517840865658, train f1: 0.18198345604945002
+tpr: 0.0004, fpr: 0.0526, precision: 0.007547169811320755, f1: 0.0007597340930674266
+
+featureId : 288, featureName: dk16:sec_cd_NA, train auc: 0.6298638576669469, train f1: 0.2321471220444232
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 454, featureName: dk45:hrisk_ab_in_0, train auc: 0.2943072040749561, train f1: 0.18198345604945002
+tpr: 0.0097, fpr: 0.4173, precision: 0.02271662763466042, f1: 0.013594954449894883
+
+featureId : 21, featureName: dk2:prod_subtype_O, train auc: 0.8580652595543139, train f1: 0.551969012265978
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 283, featureName: dk15:cmt_blk_cd_1, train auc: 0.9203571736630967, train f1: 0.911748781808338
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 506, featureName: bcb15:crtcrd_n30d_late_months_cd, train auc: 0.5640173805525511, train f1: 0.23981154299175503
+tpr: 0.0513, fpr: 0.2681, precision: 0.16061365059486538, f1: 0.07776261937244203
+
+featureId : 310, featureName: dk21:prov_cd_PQ, train auc: 0.9398926998104686, train f1: 0.9308707124010555
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 300, featureName: dk17:max_dlq_status_cd_2, train auc: 0.4578280925652856, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.078, precision: 0.0012804097311139564, f1: 0.00018551154809386884
+
+featureId : 439, featureName: dk31:max_bl_all, train auc: 0.5306202853708132, train f1: 0.19691252144082336
+tpr: 0.0147, fpr: 0.146, precision: 0.09147479775980087, f1: 0.025329542517446367
+
+featureId : 338, featureName: dk23:sic_cd_0, train auc: 0.24592537143931745, train f1: 0.18198345604945002
+tpr: 0.0542, fpr: 0.8838, precision: 0.05778251599147122, f1: 0.05593395252837977
+
+featureId : 8, featureName: dk1:prod_name_pers_vsa, train auc: 0.6593120181296646, train f1: 0.26422206991089786
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 275, featureName: dk14:block_cd_D, train auc: 0.49899988887654184, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0028, precision: 0.0, f1: nan
+
+featureId : 273, featureName: dk14:block_cd_E, train auc: 0.8199570182012675, train f1: 0.7753623188405798
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 9, featureName: dk1:prod_name_sbb_vsa, train auc: 0.5836938369997599, train f1: 0.2864450127877238
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 262, featureName: dk6:prod_type_account_VSA, train auc: 0.5159854036395874, train f1: 0.18198345604945002
+tpr: 0.0399, fpr: 0.5103, precision: 0.07251908396946564, f1: 0.0514772287446781
+
+featureId : 37, featureName: dk2:prod_subtype_AERO_INFIN, train auc: 0.4744938359784454, train f1: 0.18198345604945002
+tpr: 0.0006, fpr: 0.0289, precision: 0.020338983050847456, f1: 0.001165614375910636
+
+featureId : 330, featureName: dk22:div_cd_3, train auc: 0.8964800617762058, train f1: 0.8091224590976698
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 336, featureName: dk22:div_cd_4, train auc: 0.810465398586301, train f1: 0.7543753771876887
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 328, featureName: dk22:div_cd_1, train auc: 0.48721747193799647, train f1: 0.18198345604945002
+tpr: 0.0009, fpr: 0.0205, precision: 0.04205607476635514, f1: 0.001762287056980615
+
+featureId : 309, featureName: dk21:prov_cd_AB, train auc: 0.9771663495966196, train f1: 0.8402865571007164
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 472, featureName: trans3:sum_PDA_srv_chrg_db_am, train auc: 0.9457281800319914, train f1: 0.7063583815028902
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 308, featureName: dk21:prov_cd_MB, train auc: 0.49171630680687245, train f1: 0.18198345604945002
+tpr: 0.0028, fpr: 0.0221, precision: 0.11244979919678715, f1: 0.005463947702214851
+
+featureId : 7, featureName: dk1:prod_name_pers_stud_loc, train auc: 0.4941082364684988, train f1: 0.18198345604945002
+tpr: 0.0002, fpr: 0.0039, precision: 0.04878048780487805, f1: 0.00039836669654416896
+
+featureId : 23, featureName: dk2:prod_subtype_C, train auc: 0.4132675858423164, train f1: 0.18198345604945002
+tpr: 0.0017, fpr: 0.1672, precision: 0.010065127294256957, f1: 0.002908717597741466
+
+featureId : 34, featureName: dk2:prod_subtype_EMERALD, train auc: 0.4687404494605295, train f1: 0.18198345604945002
+tpr: 0.0042, fpr: 0.1078, precision: 0.0375, f1: 0.007553956834532373
+
+featureId : 290, featureName: dk16:sec_cd_4C, train auc: 0.6843145741912272, train f1: 0.5338129496402878
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 274, featureName: dk14:block_cd_I, train auc: 0.5464535464535465, train f1: 0.18198345604945002
+tpr: 0.0094, fpr: 0.0, precision: 1.0, f1: 0.018624925698434713
+
+featureId : 457, featureName: dk45:hrisk_ab_in_8, train auc: 0.6960153414759482, train f1: 0.5185651353052234
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 32, featureName: dk2:prod_subtype_CL_TRAVEL, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_CL_TRAVEL
+featureId : 453, featureName: dk45:hrisk_ab_in_2, train auc: 0.5759380634922362, train f1: 0.2254395036194416
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 47, featureName: dk2:prod_subtype_VENTURE, train auc: 0.4985542849194366, train f1: 0.18198345604945002
+tpr: 0.0003, fpr: 0.0032, precision: 0.08571428571428572, f1: 0.0005979073243647234
+
+featureId : 36, featureName: dk2:prod_subtype_M, train auc: 0.4988882103561513, train f1: 0.18198345604945002
+tpr: 0.0003, fpr: 0.0038, precision: 0.07317073170731707, f1: 0.0005975500448162533
+
+featureId : 295, featureName: dk17:max_dlq_status_cd_0, train auc: 0.36741428368275797, train f1: 0.18198345604945002
+tpr: 0.0035, fpr: 0.4176, precision: 0.008311564948943244, f1: 0.004925761733868131
+
+featureId : 16, featureName: dk1:prod_name_sbb_loan, train auc: 0.4987220802311368, train f1: 0.18198345604945002
+tpr: 0.0002, fpr: 0.0027, precision: 0.06896551724137931, f1: 0.0003988433542726094
+
+featureId : 332, featureName: dk22:div_cd_9, train auc: 0.5188154994244559, train f1: 0.18198345604945002
+tpr: 0.0025, fpr: 0.0872, precision: 0.027870680044593088, f1: 0.004588418830870882
+
+featureId : 307, featureName: dk21:prov_cd_BC, train auc: 0.4797761411829642, train f1: 0.18198345604945002
+tpr: 0.0063, fpr: 0.1231, precision: 0.04868624420401855, f1: 0.011156366212148045
+
+featureId : 261, featureName: dk6:prod_type_account_MTG, train auc: 0.49044338259806647, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.028, precision: 0.0, f1: nan
+
+featureId : 69, featureName: dk2:prod_subtype_AERO_VIP, train auc: 0.49961106789643295, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0004, precision: 0.0, f1: nan
+
+featureId : 41, featureName: dk2:prod_subtype_US$, train auc: 0.6409691541928457, train f1: 0.436587240584166
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 14, featureName: dk1:prod_name_not_identified, train auc: 0.49983331481275695, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0008, precision: 0.1111111111111111, f1: 0.00019982016185433112
+
+featureId : 311, featureName: dk21:prov_cd_SK, train auc: 0.5001550288804428, train f1: 0.18198345604945002
+tpr: 0.0042, fpr: 0.016, precision: 0.2079207920792079, f1: 0.008233679670652812
+
+featureId : 233, featureName: dk2:prod_subtype_REWARDS, train auc: 0.7042368121932518, train f1: 0.5642420122365738
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 4, featureName: dk1:prod_name_pers_sec_loc, train auc: 0.48443438992388876, train f1: 0.18198345604945002
+tpr: 0.0016, fpr: 0.0245, precision: 0.06130268199233716, f1: 0.0031186044245200277
+
+featureId : 467, featureName: acctGrp0:moneyout_unsecured_totbal_am, train auc: 0.9567607634059462, train f1: 0.7825656265477959
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 29, featureName: dk2:prod_subtype_T, train auc: 0.5007689832114768, train f1: 0.18198345604945002
+tpr: 0.0009, fpr: 0.0032, precision: 0.21951219512195122, f1: 0.0017926501344487599
+
+featureId : 48, featureName: dk2:prod_subtype_3341, train auc: 0.49983331481275695, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0003, precision: 0.25, f1: 0.00019992003198720514
+
+featureId : 335, featureName: dk22:div_cd_2, train auc: 0.6074715927477345, train f1: 0.26709631220909413
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 331, featureName: dk22:div_cd_10, train auc: 0.6354740936361117, train f1: 0.42153846153846153
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 341, featureName: dk23:sic_cd_7215, train auc: 0.5009428842076914, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0011, precision: 0.08333333333333333, f1: 0.00019976028765481425
+
+featureId : 12, featureName: dk1:prod_name_tdaf_prime, train auc: 0.5782515628609639, train f1: 0.266994266994267
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 475, featureName: trans6:sum_PDA_withdraw_db_am, train auc: 0.9743213226378022, train f1: 0.8176100628930817
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 33, featureName: dk2:prod_subtype_TD_GREEN, train auc: 0.8812805707460669, train f1: 0.8341437061048081
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 459, featureName: dk45:hrisk_ab_in_4, train auc: 0.5991227907551944, train f1: 0.3302904564315353
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 6, featureName: dk1:prod_name_pers_mtg, train auc: 0.49166463051339143, train f1: 0.18198345604945002
+tpr: 0.0002, fpr: 0.0277, precision: 0.007168458781362007, f1: 0.0003891429127347018
+
+featureId : 5, featureName: dk1:prod_name_pers_dir_loan, train auc: 0.5112662645721875, train f1: 0.18198345604945002
+tpr: 0.0047, fpr: 0.0006, precision: 0.8867924528301887, f1: 0.00935044265393415
+
+featureId : 55, featureName: dk2:prod_subtype_3340, train auc: 0.5054389437654245, train f1: 0.18198345604945002
+tpr: 0.002, fpr: 0.0001, precision: 0.9523809523809523, f1: 0.003991617603033629
+
+featureId : 334, featureName: dk22:div_cd_8, train auc: 0.9108966930391533, train f1: 0.7599475295146481
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 315, featureName: dk21:prov_cd_PE, train auc: 0.4987220802311368, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0029, precision: 0.0, f1: nan
+
+featureId : 22, featureName: dk2:prod_subtype_A, train auc: 0.6098790086455383, train f1: 0.33779028852920484
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 10, featureName: dk1:prod_name_sbb_a, train auc: 0.5062145877236444, train f1: 0.18198345604945002
+tpr: 0.0033, fpr: 0.0068, precision: 0.32673267326732675, f1: 0.0065340065340065345
+
+featureId : 329, featureName: dk22:div_cd_18, train auc: 0.8757038605355084, train f1: 0.6971133132270574
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 287, featureName: dk16:sec_cd_4F, train auc: 0.8235080288086178, train f1: 0.5602387168966804
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 17, featureName: dk1:prod_name_pers_sec_loc_frao, train auc: 0.4993882659178804, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0044, precision: 0.0, f1: nan
+
+featureId : 313, featureName: dk21:prov_cd_NB, train auc: 0.5569969534854522, train f1: 0.20454545454545453
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 286, featureName: dk15:cmt_blk_cd_2, train auc: 0.5021052400205639, train f1: 0.18198345604945002
+tpr: 0.0009, fpr: 0.0045, precision: 0.16666666666666666, f1: 0.0017903322060871293
+
+featureId : 1, featureName: dk1:prod_name_pers_td_help_loan, train auc: 0.5094349477614284, train f1: 0.18198345604945002
+tpr: 0.0016, fpr: 0.0002, precision: 0.8888888888888888, f1: 0.0031942503493711323
+
+featureId : 314, featureName: dk21:prov_cd_NA, train auc: 0.5083803850333465, train f1: 0.18198345604945002
+tpr: 0.0011, fpr: 0.0002, precision: 0.8461538461538461, f1: 0.0021971437131728753
+
+featureId : 53, featureName: dk2:prod_subtype_3356, train auc: 0.5212551644377402, train f1: 0.18198345604945002
+tpr: 0.0086, fpr: 0.0025, precision: 0.7747747747747747, f1: 0.01701117594698843
+
+featureId : 50, featureName: dk2:prod_subtype_3358, train auc: 0.49833314812756974, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0046, precision: 0.0, f1: nan
+
+featureId : 31, featureName: dk2:prod_subtype_REBATE, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_REBATE
+featureId : 298, featureName: dk17:max_dlq_status_cd_3, train auc: 0.6475187774776618, train f1: 0.454336147352264
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 49, featureName: dk2:prod_subtype_BUS_CARD, train auc: 0.5214785214785215, train f1: 0.18198345604945002
+tpr: 0.0157, fpr: 0.0, precision: 1.0, f1: 0.030914640149650483
+
+featureId : 44, featureName: dk2:prod_subtype_CASH_BACK, train auc: 0.5135970818824469, train f1: 0.18198345604945002
+tpr: 0.0019, fpr: 0.0006, precision: 0.76, f1: 0.0037905236907730673
+
+featureId : 456, featureName: dk45:hrisk_ab_in_1, train auc: 0.8048048184730039, train f1: 0.5405610310841547
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 455, featureName: dk45:hrisk_ab_in_3, train auc: 0.5774064806179485, train f1: 0.2544951590594744
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 306, featureName: dk21:prov_cd_NS, train auc: 0.5893544726192798, train f1: 0.30226700251889166
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 355, featureName: dk23:sic_cd_7759, train auc: 0.49905545060562284, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0015, precision: 0.0, f1: nan
+
+featureId : 482, featureName: trans13:sum_ctgy_withdrawal_am, train auc: 0.9540180899220794, train f1: 0.6997840172786177
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 64, featureName: dk2:prod_subtype_3280, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3280
+featureId : 39, featureName: dk2:prod_subtype_FC_TRAVEL, train auc: 0.5184148555078658, train f1: 0.18198345604945002
+tpr: 0.0128, fpr: 0.0162, precision: 0.4413793103448276, f1: 0.024878522837706512
+
+featureId : 40, featureName: dk2:prod_subtype_B, train auc: 0.49544282809090007, train f1: 0.18198345604945002
+tpr: 0.0005, fpr: 0.013, precision: 0.037037037037037035, f1: 0.000986679822397632
+
+featureId : 38, featureName: dk2:prod_subtype_BUS_TRAVEL, train auc: 0.5009945605011724, train f1: 0.18198345604945002
+tpr: 0.0075, fpr: 0.0299, precision: 0.20053475935828877, f1: 0.014459224985540774
+
+featureId : 62, featureName: dk2:prod_subtype_4154, train auc: 0.49977775308367595, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0003, precision: 0.0, f1: nan
+
+featureId : 388, featureName: dk23:sic_cd_4219, train auc: 0.4994443827091899, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0005, precision: 0.0, f1: nan
+
+featureId : 45, featureName: dk2:prod_subtype_AERO_PLATM, train auc: 0.48460662573341756, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0238, precision: 0.0041841004184100415, f1: 0.0001953315753491552
+
+featureId : 56, featureName: dk2:prod_subtype_3374, train auc: 0.5000550066668524, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0022, precision: 0.043478260869565216, f1: 0.000199541055572184
+
+featureId : 461, featureName: dk45:hrisk_ab_in_6, train auc: 0.518592086877452, train f1: 0.18198345604945002
+tpr: 0.0028, fpr: 0.0, precision: 1.0, f1: 0.005584363781412046
+
+featureId : 371, featureName: dk23:sic_cd_9211, train auc: 0.5064379447644254, train f1: 0.18198345604945002
+tpr: 0.0011, fpr: 0.0001, precision: 0.9166666666666666, f1: 0.0021973631642029567
+
+featureId : 18, featureName: dk1:prod_name_sbb_odp_no_depos, train auc: 0.5012206928530965, train f1: 0.18198345604945002
+tpr: 0.001, fpr: 0.0002, precision: 0.8333333333333334, f1: 0.0019976028765481425
+
+featureId : 42, featureName: dk2:prod_subtype_GOLD_ELITE, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_GOLD_ELITE
+featureId : 317, featureName: dk21:prov_cd_NT, train auc: 0.505827320806763, train f1: 0.18198345604945002
+tpr: 0.0009, fpr: 0.0, precision: 1.0, f1: 0.00179838145668898
+
+featureId : 474, featureName: trans5:sum_PDA_pre_auth_db_am, train auc: 0.7955209031439724, train f1: 0.33795582948125324
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 358, featureName: dk23:sic_cd_9953, train auc: 0.5069374452639259, train f1: 0.18198345604945002
+tpr: 0.0011, fpr: 0.0002, precision: 0.8461538461538461, f1: 0.0021971437131728753
+
+featureId : 460, featureName: dk45:hrisk_ab_in_7, train auc: 0.53185690850987, train f1: 0.18198345604945002
+tpr: 0.0058, fpr: 0.0, precision: 1.0, f1: 0.011533107973752236
+
+featureId : 276, featureName: dk14:block_cd_W, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 370, featureName: dk23:sic_cd_171, train auc: 0.49983331481275695, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0001, precision: 0.0, f1: nan
+
+featureId : 396, featureName: dk23:sic_cd_7739, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0002, fpr: 0.0002, precision: 0.5, f1: 0.0003998400639744103
+
+featureId : 345, featureName: dk23:sic_cd_5219, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0002, precision: 0.0, f1: nan
+
+featureId : 54, featureName: dk2:prod_subtype_3372, train auc: 0.5097049855356335, train f1: 0.18198345604945002
+tpr: 0.0053, fpr: 0.0188, precision: 0.21991701244813278, f1: 0.010350551703935161
+
+featureId : 458, featureName: dk45:hrisk_ab_in_5, train auc: 0.5523364289893905, train f1: 0.18953068592057762
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 382, featureName: dk23:sic_cd_9212, train auc: 0.5024975024975025, train f1: 0.18198345604945002
+tpr: 0.0008, fpr: 0.0002, precision: 0.8, f1: 0.0015984015984015984
+
+featureId : 284, featureName: dk15:cmt_blk_cd_5, train auc: 0.5263068412862835, train f1: 0.18198345604945002
+tpr: 0.0082, fpr: 0.0002, precision: 0.9761904761904762, f1: 0.01626338754462515
+
+featureId : 25, featureName: dk2:prod_subtype_NA, train auc: 0.49488554561340425, train f1: 0.18198345604945002
+tpr: 0.0003, fpr: 0.0236, precision: 0.012552301255230125, f1: 0.0005859947260474655
+
+featureId : 312, featureName: dk21:prov_cd_NL, train auc: 0.5353534120063734, train f1: 0.18198345604945002
+tpr: 0.0089, fpr: 0.0001, precision: 0.9888888888888889, f1: 0.017641228939544104
+
+featureId : 35, featureName: dk2:prod_subtype_GOLD_SEL, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_GOLD_SEL
+featureId : 349, featureName: dk23:sic_cd_4275, train auc: 0.49961106789643295, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0007, precision: 0.125, f1: 0.00019984012789768188
+
+featureId : 318, featureName: dk21:prov_cd_QC, train auc: 0.49955550616735195, train f1: 0.18198345604945002
+tpr: 0.0003, fpr: 0.0014, precision: 0.17647058823529413, f1: 0.0005989817310572028
+
+featureId : 389, featureName: dk23:sic_cd_5639, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0002, precision: 0.3333333333333333, f1: 0.00019994001799460164
+
+featureId : 478, featureName: trans9:sum_chnl_system_cr_am, train auc: 0.9764890626653044, train f1: 0.8192883895131086
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 417, featureName: dk23:sic_cd_7761, train auc: 0.49983331481275695, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0005, precision: 0.0, f1: nan
+
+featureId : 469, featureName: trans0:sum_PDA_system_cr_am, train auc: 0.9641688459334864, train f1: 0.9012464046021094
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 89, featureName: dk2:prod_subtype_4186, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0006, precision: 0.0, f1: nan
+
+featureId : 294, featureName: dk16:sec_cd_A, train auc: 0.49983331481275695, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0004, precision: 0.0, f1: nan
+
+featureId : 78, featureName: dk2:prod_subtype_4158, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4158
+featureId : 408, featureName: dk23:sic_cd_4274, train auc: 0.501998001998002, train f1: 0.18198345604945002
+tpr: 0.0002, fpr: 0.0, precision: 1.0, f1: 0.0003999200159968007
+
+featureId : 127, featureName: dk2:prod_subtype_3343, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3343
+featureId : 342, featureName: dk23:sic_cd_7771, train auc: 0.5013862679158823, train f1: 0.18198345604945002
+tpr: 0.002, fpr: 0.0016, precision: 0.5555555555555556, f1: 0.0039856516540454365
+
+featureId : 77, featureName: dk2:prod_subtype_3347, train auc: 0.49977775308367595, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0008, precision: 0.0, f1: nan
+
+featureId : 425, featureName: dk23:sic_cd_9821, train auc: 0.49983331481275695, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0002, precision: 0.0, f1: nan
+
+featureId : 431, featureName: dk23:sic_cd_4214, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 368, featureName: dk23:sic_cd_7799, train auc: 0.49955550616735195, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0013, precision: 0.0, f1: nan
+
+featureId : 46, featureName: dk2:prod_subtype_PL_TRAVEL, train auc: 0.5120402433437216, train f1: 0.18198345604945002
+tpr: 0.0041, fpr: 0.0053, precision: 0.43617021276595747, f1: 0.008123637804636418
+
+featureId : 59, featureName: dk2:prod_subtype_3357, train auc: 0.5016635214990588, train f1: 0.18198345604945002
+tpr: 0.0017, fpr: 0.0044, precision: 0.2786885245901639, f1: 0.003379385746943644
+
+featureId : 339, featureName: dk23:sic_cd_6599, train auc: 0.5034409417674225, train f1: 0.18198345604945002
+tpr: 0.0013, fpr: 0.0004, precision: 0.7647058823529411, f1: 0.0025955875012478786
+
+featureId : 413, featureName: dk23:sic_cd_2819, train auc: -1, train f1: -1
+Skipping invalid feature: dk23:sic_cd_2819
+featureId : 15, featureName: dk1:prod_name_pers_indir_loan, train auc: 0.501998001998002, train f1: 0.18198345604945002
+tpr: 0.0004, fpr: 0.0, precision: 1.0, f1: 0.0007996801279488206
+
+featureId : 419, featureName: dk23:sic_cd_7791, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0002, precision: 0.0, f1: nan
+
+featureId : 58, featureName: dk2:prod_subtype_3354, train auc: 0.5007206372913674, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0017, precision: 0.0, f1: nan
+
+featureId : 352, featureName: dk23:sic_cd_4569, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0002, precision: 0.0, f1: nan
+
+featureId : 316, featureName: dk21:prov_cd_YT, train auc: 0.5020530086648544, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.001, precision: 0.0, f1: nan
+
+featureId : 390, featureName: dk23:sic_cd_4022, train auc: 0.5014985014985015, train f1: 0.18198345604945002
+tpr: 0.0002, fpr: 0.0001, precision: 0.6666666666666666, f1: 0.0003998800359892033
+
+featureId : 43, featureName: dk2:prod_subtype_DRIVERS, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_DRIVERS
+featureId : 51, featureName: dk2:prod_subtype_4004, train auc: 0.501775755081678, train f1: 0.18198345604945002
+tpr: 0.0012, fpr: 0.0002, precision: 0.8571428571428571, f1: 0.0023966446974236066
+
+featureId : 340, featureName: dk23:sic_cd_5999, train auc: 0.503996003996004, train f1: 0.18198345604945002
+tpr: 0.0005, fpr: 0.0, precision: 1.0, f1: 0.0009995002498750627
+
+featureId : 354, featureName: dk23:sic_cd_7721, train auc: 0.5010540076658535, train f1: 0.18198345604945002
+tpr: 0.0007, fpr: 0.0011, precision: 0.3888888888888889, f1: 0.0013974845278498702
+
+featureId : 299, featureName: dk17:max_dlq_status_cd_4, train auc: 0.5093793860323474, train f1: 0.18198345604945002
+tpr: 0.0026, fpr: 0.0001, precision: 0.9629629629629629, f1: 0.005185997805924004
+
+featureId : 414, featureName: dk23:sic_cd_4564, train auc: 0.499888876541838, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0003, precision: 0.0, f1: nan
+
+featureId : 366, featureName: dk23:sic_cd_7214, train auc: 0.499888876541838, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0001, precision: 0.0, f1: nan
+
+featureId : 325, featureName: dk21:prov_cd_CA, train auc: 0.503884880537842, train f1: 0.18198345604945002
+tpr: 0.0013, fpr: 0.0, precision: 1.0, f1: 0.002596624388295216
+
+featureId : 337, featureName: dk22:div_cd_7, train auc: 0.4994999444382709, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0015, precision: 0.0, f1: nan
+
+featureId : 13, featureName: dk1:prod_name_tdaf_nonprime, train auc: 0.4907211912434715, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0268, precision: 0.0, f1: nan
+
+featureId : 377, featureName: dk23:sic_cd_8599, train auc: 0.49961106789643295, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0005, precision: 0.0, f1: nan
+
+featureId : 110, featureName: dk2:prod_subtype_3337, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 88, featureName: dk2:prod_subtype_DISCONTIND, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_DISCONTIND
+featureId : 319, featureName: dk21:prov_cd_MI, train auc: -1, train f1: -1
+Skipping invalid feature: dk21:prov_cd_MI
+featureId : 364, featureName: dk23:sic_cd_4839, train auc: 0.49977775308367595, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0007, precision: 0.0, f1: nan
+
+featureId : 346, featureName: dk23:sic_cd_4011, train auc: 0.49905545060562284, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0015, precision: 0.0, f1: nan
+
+featureId : 327, featureName: dk21:prov_cd_IL, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 402, featureName: dk23:sic_cd_6131, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0, precision: 1.0, f1: 0.00019998000199980003
+
+featureId : 411, featureName: dk23:sic_cd_7517, train auc: 0.5009434392699199, train f1: 0.18198345604945002
+tpr: 0.0005, fpr: 0.0, precision: 1.0, f1: 0.0009995002498750627
+
+featureId : 383, featureName: dk23:sic_cd_6355, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0, precision: 1.0, f1: 0.00019998000199980003
+
+featureId : 291, featureName: dk16:sec_cd_1, train auc: 0.505994005994006, train f1: 0.18198345604945002
+tpr: 0.0004, fpr: 0.0, precision: 1.0, f1: 0.0007996801279488206
+
+featureId : 71, featureName: dk2:prod_subtype_4193, train auc: 0.5014985014985015, train f1: 0.18198345604945002
+tpr: 0.0005, fpr: 0.0, precision: 1.0, f1: 0.0009995002498750627
+
+featureId : 26, featureName: dk2:prod_subtype_2271, train auc: 0.5063823830353444, train f1: 0.18198345604945002
+tpr: 0.0012, fpr: 0.0, precision: 1.0, f1: 0.00239712345185777
+
+featureId : 66, featureName: dk2:prod_subtype_4072, train auc: 0.49966662962551395, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0003, precision: 0.0, f1: nan
+
+featureId : 112, featureName: dk2:prod_subtype_4011, train auc: 0.499888876541838, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 404, featureName: dk23:sic_cd_4235, train auc: 0.49977775308367595, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0002, precision: 0.0, f1: nan
+
+featureId : 324, featureName: dk21:prov_cd_NY, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0003, fpr: 0.0, precision: 1.0, f1: 0.0005998200539838048
+
+featureId : 323, featureName: dk21:prov_cd_FL, train auc: 0.503996003996004, train f1: 0.18198345604945002
+tpr: 0.0003, fpr: 0.0, precision: 1.0, f1: 0.0005998200539838048
+
+featureId : 401, featureName: dk23:sic_cd_7711, train auc: 0.5004439387704195, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0002, precision: 0.0, f1: nan
+
+featureId : 361, featureName: dk23:sic_cd_6312, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0007, fpr: 0.0, precision: 1.0, f1: 0.001399020685520136
+
+featureId : 412, featureName: dk23:sic_cd_4277, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0, precision: 1.0, f1: 0.00019998000199980003
+
+featureId : 73, featureName: dk2:prod_subtype_4187, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4187
+featureId : 74, featureName: dk2:prod_subtype_4184, train auc: 0.49966662962551395, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0008, precision: 0.0, f1: nan
+
+featureId : 95, featureName: dk2:prod_subtype_3014, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3014
+featureId : 343, featureName: dk23:sic_cd_7752, train auc: 0.49977775308367595, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0002, precision: 0.0, f1: nan
+
+featureId : 70, featureName: dk2:prod_subtype_2069, train auc: 0.5104895104895105, train f1: 0.18198345604945002
+tpr: 0.0043, fpr: 0.0001, precision: 0.9772727272727273, f1: 0.008562325766626843
+
+featureId : 90, featureName: dk2:prod_subtype_3342, train auc: 0.49966662962551395, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0005, precision: 0.0, f1: nan
+
+featureId : 407, featureName: dk23:sic_cd_9861, train auc: 0.49983331481275695, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0001, precision: 0.5, f1: 0.00019996000799840034
+
+featureId : 65, featureName: dk2:prod_subtype_2063, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2063
+featureId : 321, featureName: dk21:prov_cd_WA, train auc: 0.499888876541838, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0003, precision: 0.25, f1: 0.00019992003198720514
+
+featureId : 153, featureName: dk2:prod_subtype_2178, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 76, featureName: dk2:prod_subtype_4010, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4010
+featureId : 347, featureName: dk23:sic_cd_9961, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0003, fpr: 0.0, precision: 1.0, f1: 0.0005998200539838048
+
+featureId : 214, featureName: dk2:prod_subtype_3336, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3336
+featureId : 107, featureName: dk2:prod_subtype_3180, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 20, featureName: dk2:prod_subtype_2276, train auc: 0.5024975024975025, train f1: 0.18198345604945002
+tpr: 0.0005, fpr: 0.0, precision: 1.0, f1: 0.0009995002498750627
+
+featureId : 363, featureName: dk23:sic_cd_4561, train auc: 0.5089343371374708, train f1: 0.18198345604945002
+tpr: 0.0027, fpr: 0.001, precision: 0.7297297297297297, f1: 0.0053800936534821155
+
+featureId : 430, featureName: dk23:sic_cd_7524, train auc: 0.49977775308367595, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0001, precision: 0.0, f1: nan
+
+featureId : 369, featureName: dk23:sic_cd_141, train auc: -1, train f1: -1
+Skipping invalid feature: dk23:sic_cd_141
+featureId : 67, featureName: dk2:prod_subtype_4159, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4159
+featureId : 79, featureName: dk2:prod_subtype_3338, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 427, featureName: dk23:sic_cd_7598, train auc: 0.5014985014985015, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0001, precision: 0.5, f1: 0.00019996000799840034
+
+featureId : 292, featureName: dk16:sec_cd_4E, train auc: 0.49972219135459495, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0004, precision: 0.0, f1: nan
+
+featureId : 357, featureName: dk23:sic_cd_9659, train auc: 0.5023863790393405, train f1: 0.18198345604945002
+tpr: 0.001, fpr: 0.0, precision: 1.0, f1: 0.0019980019980019984
+
+featureId : 24, featureName: dk2:prod_subtype_4031, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0007, fpr: 0.0, precision: 1.0, f1: 0.001399020685520136
+
+featureId : 379, featureName: dk23:sic_cd_7599, train auc: 0.49972219135459495, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0003, precision: 0.0, f1: nan
+
+featureId : 322, featureName: dk21:prov_cd_NU, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0, precision: 1.0, f1: 0.00019998000199980003
+
+featureId : 398, featureName: dk23:sic_cd_9839, train auc: 0.49966662962551395, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0004, precision: 0.0, f1: nan
+
+featureId : 80, featureName: dk2:prod_subtype_3013, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3013
+featureId : 376, featureName: dk23:sic_cd_4241, train auc: 0.49972219135459495, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0004, precision: 0.0, f1: nan
+
+featureId : 378, featureName: dk23:sic_cd_9949, train auc: -1, train f1: -1
+Skipping invalid feature: dk23:sic_cd_9949
+featureId : 375, featureName: dk23:sic_cd_4261, train auc: 0.49983331481275695, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0002, precision: 0.0, f1: nan
+
+featureId : 57, featureName: dk2:prod_subtype_2169, train auc: 0.5014985014985015, train f1: 0.18198345604945002
+tpr: 0.0009, fpr: 0.0, precision: 1.0, f1: 0.00179838145668898
+
+featureId : 121, featureName: dk2:prod_subtype_2247, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2247
+featureId : 301, featureName: dk17:max_dlq_status_cd_5, train auc: 0.5079920079920079, train f1: 0.18198345604945002
+tpr: 0.0013, fpr: 0.0, precision: 1.0, f1: 0.002596624388295216
+
+featureId : 391, featureName: dk23:sic_cd_9213, train auc: 0.499888876541838, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0003, precision: 0.0, f1: nan
+
+featureId : 428, featureName: dk23:sic_cd_6352, train auc: -1, train f1: -1
+Skipping invalid feature: dk23:sic_cd_6352
+featureId : 229, featureName: dk2:prod_subtype_I_CASHBACK, train auc: 0.537962037962038, train f1: 0.18198345604945002
+tpr: 0.0315, fpr: 0.0, precision: 1.0, f1: 0.06107610276296655
+
+featureId : 405, featureName: dk23:sic_cd_919, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 400, featureName: dk23:sic_cd_8669, train auc: 0.5001661301250145, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0003, precision: 0.0, f1: nan
+
+featureId : 468, featureName: acctGrp1:moneyin_totbal_am, train auc: -0.9051048407087968, train f1: 0.6210471747019182
+tpr: 0.0, fpr: 1.0, precision: 0.0, f1: nan
+
+featureId : 320, featureName: dk21:prov_cd_TX, train auc: 0.49983331481275695, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0002, precision: 0.3333333333333333, f1: 0.00019994001799460164
+
+featureId : 387, featureName: dk23:sic_cd_4299, train auc: 0.49972219135459495, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0005, precision: 0.0, f1: nan
+
+featureId : 75, featureName: dk2:prod_subtype_3351, train auc: 0.5009978908745439, train f1: 0.18198345604945002
+tpr: 0.0007, fpr: 0.0035, precision: 0.16666666666666666, f1: 0.0013941445927106153
+
+featureId : 293, featureName: dk16:sec_cd_4D, train auc: 0.499888876541838, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0001, precision: 0.0, f1: nan
+
+featureId : 285, featureName: dk15:cmt_blk_cd_4, train auc: 0.504995004995005, train f1: 0.18198345604945002
+tpr: 0.0006, fpr: 0.0, precision: 1.0, f1: 0.0011992804317409553
+
+featureId : 374, featureName: dk23:sic_cd_9959, train auc: 0.49966662962551395, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0004, precision: 0.0, f1: nan
+
+featureId : 394, featureName: dk23:sic_cd_6921, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0003, precision: 0.0, f1: nan
+
+featureId : 487, featureName: mccTrans0:sum_0, train auc: 0.9594877841349672, train f1: 0.7145026575550493
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 418, featureName: dk23:sic_cd_4231, train auc: 0.499888876541838, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0001, precision: 0.0, f1: nan
+
+featureId : 424, featureName: dk23:sic_cd_9221, train auc: -1, train f1: -1
+Skipping invalid feature: dk23:sic_cd_9221
+featureId : 52, featureName: dk2:prod_subtype_3355, train auc: 0.5014985014985015, train f1: 0.18198345604945002
+tpr: 0.0006, fpr: 0.0, precision: 1.0, f1: 0.0011992804317409553
+
+featureId : 85, featureName: dk2:prod_subtype_2016, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0005, fpr: 0.0, precision: 1.0, f1: 0.0009995002498750627
+
+featureId : 386, featureName: dk23:sic_cd_7731, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0001, precision: 0.0, f1: nan
+
+featureId : 278, featureName: dk14:block_cd_V, train auc: 0.554945054945055, train f1: 0.198019801980198
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 87, featureName: dk2:prod_subtype_2273, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2273
+featureId : 297, featureName: dk17:max_dlq_status_cd_6, train auc: 0.5012206928530965, train f1: 0.18198345604945002
+tpr: 0.001, fpr: 0.0004, precision: 0.7142857142857143, f1: 0.0019972039145196726
+
+featureId : 103, featureName: dk2:prod_subtype_2053, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 19, featureName: dk1:prod_name_sbb_mtg, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0, precision: 1.0, f1: 0.00019998000199980003
+
+featureId : 423, featureName: dk23:sic_cd_4272, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0002, precision: 0.3333333333333333, f1: 0.00019994001799460164
+
+featureId : 353, featureName: dk23:sic_cd_7749, train auc: 0.5012762545821775, train f1: 0.18198345604945002
+tpr: 0.0007, fpr: 0.0001, precision: 0.875, f1: 0.0013988808952837728
+
+featureId : 393, featureName: dk23:sic_cd_9699, train auc: 0.5003883770413385, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0, precision: 1.0, f1: 0.00019998000199980003
+
+featureId : 422, featureName: dk23:sic_cd_9671, train auc: 0.5014985014985015, train f1: 0.18198345604945002
+tpr: 0.0003, fpr: 0.0, precision: 1.0, f1: 0.0005998200539838048
+
+featureId : 68, featureName: dk2:prod_subtype_BUS-STAFF, train auc: 0.5024975024975025, train f1: 0.18198345604945002
+tpr: 0.0014, fpr: 0.0, precision: 1.0, f1: 0.0027960854803275414
+
+featureId : 228, featureName: dk2:prod_subtype_4149, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4149
+featureId : 168, featureName: dk2:prod_subtype_2073, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2073
+featureId : 384, featureName: dk23:sic_cd_4493, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0001, precision: 0.0, f1: nan
+
+featureId : 399, featureName: dk23:sic_cd_7299, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0004, fpr: 0.0, precision: 1.0, f1: 0.0007996801279488206
+
+featureId : 360, featureName: dk23:sic_cd_3999, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0002, precision: 0.0, f1: nan
+
+featureId : 61, featureName: dk2:prod_subtype_4110, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4110
+featureId : 344, featureName: dk23:sic_cd_7292, train auc: 0.49977775308367595, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0006, precision: 0.0, f1: nan
+
+featureId : 362, featureName: dk23:sic_cd_4013, train auc: 0.5013312612490299, train f1: 0.18198345604945002
+tpr: 0.001, fpr: 0.002, precision: 0.3333333333333333, f1: 0.0019940179461615153
+
+featureId : 100, featureName: dk2:prod_subtype_3335, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3335
+featureId : 380, featureName: dk23:sic_cd_6019, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0004, fpr: 0.0, precision: 1.0, f1: 0.0007996801279488206
+
+featureId : 392, featureName: dk23:sic_cd_4495, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0001, precision: 0.0, f1: nan
+
+featureId : 403, featureName: dk23:sic_cd_3365, train auc: -1, train f1: -1
+Skipping invalid feature: dk23:sic_cd_3365
+featureId : 372, featureName: dk23:sic_cd_7511, train auc: 0.5019424402689211, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0, precision: 1.0, f1: 0.00019998000199980003
+
+featureId : 420, featureName: dk23:sic_cd_4279, train auc: -1, train f1: -1
+Skipping invalid feature: dk23:sic_cd_4279
+featureId : 381, featureName: dk23:sic_cd_4592, train auc: 0.49977775308367595, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0002, precision: 0.0, f1: nan
+
+featureId : 81, featureName: dk2:prod_subtype_2064, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2064
+featureId : 410, featureName: dk23:sic_cd_9631, train auc: 0.5014985014985015, train f1: 0.18198345604945002
+tpr: 0.0004, fpr: 0.0, precision: 1.0, f1: 0.0007996801279488206
+
+featureId : 397, featureName: dk23:sic_cd_6149, train auc: 0.50283031780976, train f1: 0.18198345604945002
+tpr: 0.0002, fpr: 0.0003, precision: 0.4, f1: 0.000399800099950025
+
+featureId : 93, featureName: dk2:prod_subtype_2146, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2146
+featureId : 91, featureName: dk2:prod_subtype_4015, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4015
+featureId : 92, featureName: dk2:prod_subtype_2201, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2201
+featureId : 429, featureName: dk23:sic_cd_7611, train auc: -1, train f1: -1
+Skipping invalid feature: dk23:sic_cd_7611
+featureId : 356, featureName: dk23:sic_cd_6351, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0003, fpr: 0.0, precision: 1.0, f1: 0.0005998200539838048
+
+featureId : 326, featureName: dk21:prov_cd_MA, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0004, fpr: 0.0, precision: 1.0, f1: 0.0007996801279488206
+
+featureId : 373, featureName: dk23:sic_cd_4499, train auc: 0.499888876541838, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0004, precision: 0.0, f1: nan
+
+featureId : 60, featureName: dk2:prod_subtype_3349, train auc: 0.5104895104895105, train f1: 0.18198345604945002
+tpr: 0.0024, fpr: 0.0, precision: 1.0, f1: 0.004788507581803671
+
+featureId : 98, featureName: dk2:prod_subtype_2165, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2165
+featureId : 416, featureName: dk23:sic_cd_6342, train auc: 0.5024975024975025, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0, precision: 1.0, f1: 0.00019998000199980003
+
+featureId : 415, featureName: dk23:sic_cd_6011, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 131, featureName: dk2:prod_subtype_4013, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4013
+featureId : 395, featureName: dk23:sic_cd_4226, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 280, featureName: dk14:block_cd_L, train auc: -1, train f1: -1
+Skipping invalid feature: dk14:block_cd_L
+featureId : 348, featureName: dk23:sic_cd_4411, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 148, featureName: dk2:prod_subtype_2105, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2105
+featureId : 359, featureName: dk23:sic_cd_9599, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0008, fpr: 0.0, precision: 1.0, f1: 0.001598721023181455
+
+featureId : 144, featureName: dk2:prod_subtype_3296, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3296
+featureId : 385, featureName: dk23:sic_cd_9942, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0004, fpr: 0.0, precision: 1.0, f1: 0.0007996801279488206
+
+featureId : 409, featureName: dk23:sic_cd_4589, train auc: 0.5014985014985015, train f1: 0.18198345604945002
+tpr: 0.0002, fpr: 0.0, precision: 1.0, f1: 0.0003999200159968007
+
+featureId : 99, featureName: dk2:prod_subtype_2143, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2143
+featureId : 406, featureName: dk23:sic_cd_6399, train auc: 0.501998001998002, train f1: 0.18198345604945002
+tpr: 0.0002, fpr: 0.0, precision: 1.0, f1: 0.0003999200159968007
+
+featureId : 351, featureName: dk23:sic_cd_6359, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 365, featureName: dk23:sic_cd_7596, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0004, fpr: 0.0, precision: 1.0, f1: 0.0007996801279488206
+
+featureId : 164, featureName: dk2:prod_subtype_4284, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4284
+featureId : 426, featureName: dk23:sic_cd_9811, train auc: -1, train f1: -1
+Skipping invalid feature: dk23:sic_cd_9811
+featureId : 421, featureName: dk23:sic_cd_4842, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0003, fpr: 0.0, precision: 1.0, f1: 0.0005998200539838048
+
+featureId : 367, featureName: dk23:sic_cd_7741, train auc: -1, train f1: -1
+Skipping invalid feature: dk23:sic_cd_7741
+featureId : 350, featureName: dk23:sic_cd_9512, train auc: 0.49977775308367595, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0007, precision: 0.0, f1: nan
+
+featureId : 279, featureName: dk14:block_cd_N, train auc: -1, train f1: -1
+Skipping invalid feature: dk14:block_cd_N
+featureId : 254, featureName: dk2:prod_subtype_3255, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3255
+featureId : 253, featureName: dk2:prod_subtype_3260, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3260
+featureId : 252, featureName: dk2:prod_subtype_3371, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3371
+featureId : 251, featureName: dk2:prod_subtype_2136, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2136
+featureId : 250, featureName: dk2:prod_subtype_4287, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4287
+featureId : 249, featureName: dk2:prod_subtype_3103, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3103
+featureId : 248, featureName: dk2:prod_subtype_2070, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2070
+featureId : 247, featureName: dk2:prod_subtype_3294, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3294
+featureId : 246, featureName: dk2:prod_subtype_3364, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3364
+featureId : 245, featureName: dk2:prod_subtype_3030, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3030
+featureId : 244, featureName: dk2:prod_subtype_4217, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4217
+featureId : 243, featureName: dk2:prod_subtype_4204, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4204
+featureId : 242, featureName: dk2:prod_subtype_4286, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4286
+featureId : 241, featureName: dk2:prod_subtype_3362, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3362
+featureId : 240, featureName: dk2:prod_subtype_2192, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2192
+featureId : 239, featureName: dk2:prod_subtype_4209, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4209
+featureId : 238, featureName: dk2:prod_subtype_2384, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2384
+featureId : 237, featureName: dk2:prod_subtype_2351, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2351
+featureId : 236, featureName: dk2:prod_subtype_4114, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4114
+featureId : 235, featureName: dk2:prod_subtype_4216, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4216
+featureId : 234, featureName: dk2:prod_subtype_3360, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 232, featureName: dk2:prod_subtype_3162, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3162
+featureId : 231, featureName: dk2:prod_subtype_3361, train auc: 0.49983331481275695, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0007, precision: 0.0, f1: nan
+
+featureId : 230, featureName: dk2:prod_subtype_4129, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4129
+featureId : 227, featureName: dk2:prod_subtype_VISA_CASH, train auc: 0.4936337692755073, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0963, precision: 0.0, f1: nan
+
+featureId : 226, featureName: dk2:prod_subtype_2117, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2117
+featureId : 225, featureName: dk2:prod_subtype_3161, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3161
+featureId : 224, featureName: dk2:prod_subtype_2322, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2322
+featureId : 223, featureName: dk2:prod_subtype_2383, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2383
+featureId : 222, featureName: dk2:prod_subtype_4121, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4121
+featureId : 221, featureName: dk2:prod_subtype_2206, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2206
+featureId : 220, featureName: dk2:prod_subtype_4192, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4192
+featureId : 219, featureName: dk2:prod_subtype_2141, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2141
+featureId : 218, featureName: dk2:prod_subtype_2138, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2138
+featureId : 217, featureName: dk2:prod_subtype_2380, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2380
+featureId : 216, featureName: dk2:prod_subtype_2382, train auc: 0.5003883770413385, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0008, precision: 0.0, f1: nan
+
+featureId : 215, featureName: dk2:prod_subtype_4131, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4131
+featureId : 213, featureName: dk2:prod_subtype_3035, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3035
+featureId : 212, featureName: dk2:prod_subtype_AERO_VB, train auc: 0.5005517318552101, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0179, precision: 0.0, f1: nan
+
+featureId : 211, featureName: dk2:prod_subtype_2176, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2176
+featureId : 210, featureName: dk2:prod_subtype_3331, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3331
+featureId : 209, featureName: dk2:prod_subtype_4123, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4123
+featureId : 208, featureName: dk2:prod_subtype_3200, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3200
+featureId : 207, featureName: dk2:prod_subtype_3352, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3352
+featureId : 206, featureName: dk2:prod_subtype_3165, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3165
+featureId : 205, featureName: dk2:prod_subtype_3175, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3175
+featureId : 204, featureName: dk2:prod_subtype_3243, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3243
+featureId : 203, featureName: dk2:prod_subtype_4206, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4206
+featureId : 202, featureName: dk2:prod_subtype_2137, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2137
+featureId : 201, featureName: dk2:prod_subtype_3170, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3170
+featureId : 200, featureName: dk2:prod_subtype_3238, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3238
+featureId : 199, featureName: dk2:prod_subtype_2188, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2188
+featureId : 198, featureName: dk2:prod_subtype_3038, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3038
+featureId : 197, featureName: dk2:prod_subtype_2144, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2144
+featureId : 196, featureName: dk2:prod_subtype_3237, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3237
+featureId : 195, featureName: dk2:prod_subtype_2181, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 194, featureName: dk2:prod_subtype_4014, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4014
+featureId : 193, featureName: dk2:prod_subtype_3377, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3377
+featureId : 192, featureName: dk2:prod_subtype_2270, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2270
+featureId : 191, featureName: dk2:prod_subtype_2034, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2034
+featureId : 190, featureName: dk2:prod_subtype_3332, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 189, featureName: dk2:prod_subtype_4288, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4288
+featureId : 188, featureName: dk2:prod_subtype_2272, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2272
+featureId : 187, featureName: dk2:prod_subtype_3277, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3277
+featureId : 186, featureName: dk2:prod_subtype_3292, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3292
+featureId : 185, featureName: dk2:prod_subtype_4289, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4289
+featureId : 184, featureName: dk2:prod_subtype_4188, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4188
+featureId : 183, featureName: dk2:prod_subtype_3376, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3376
+featureId : 182, featureName: dk2:prod_subtype_3118, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3118
+featureId : 181, featureName: dk2:prod_subtype_2148, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2148
+featureId : 180, featureName: dk2:prod_subtype_3293, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3293
+featureId : 179, featureName: dk2:prod_subtype_3275, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3275
+featureId : 178, featureName: dk2:prod_subtype_2156, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2156
+featureId : 177, featureName: dk2:prod_subtype_3129, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3129
+featureId : 176, featureName: dk2:prod_subtype_3031, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3031
+featureId : 175, featureName: dk2:prod_subtype_4169, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4169
+featureId : 174, featureName: dk2:prod_subtype_3029, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3029
+featureId : 173, featureName: dk2:prod_subtype_4285, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4285
+featureId : 172, featureName: dk2:prod_subtype_2072, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2072
+featureId : 171, featureName: dk2:prod_subtype_4094, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4094
+featureId : 170, featureName: dk2:prod_subtype_2179, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2179
+featureId : 169, featureName: dk2:prod_subtype_3353, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3353
+featureId : 167, featureName: dk2:prod_subtype_2019, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2019
+featureId : 166, featureName: dk2:prod_subtype_2223, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2223
+featureId : 165, featureName: dk2:prod_subtype_2249, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2249
+featureId : 163, featureName: dk2:prod_subtype_3295, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3295
+featureId : 162, featureName: dk2:prod_subtype_4200, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4200
+featureId : 161, featureName: dk2:prod_subtype_2222, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2222
+featureId : 160, featureName: dk2:prod_subtype_3359, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3359
+featureId : 159, featureName: dk2:prod_subtype_3187, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3187
+featureId : 158, featureName: dk2:prod_subtype_2057, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2057
+featureId : 157, featureName: dk2:prod_subtype_3070, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3070
+featureId : 156, featureName: dk2:prod_subtype_2171, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2171
+featureId : 155, featureName: dk2:prod_subtype_2221, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2221
+featureId : 154, featureName: dk2:prod_subtype_2180, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2180
+featureId : 152, featureName: dk2:prod_subtype_2225, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2225
+featureId : 151, featureName: dk2:prod_subtype_2023, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2023
+featureId : 150, featureName: dk2:prod_subtype_4039, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4039
+featureId : 149, featureName: dk2:prod_subtype_3300, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3300
+featureId : 147, featureName: dk2:prod_subtype_3192, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3192
+featureId : 146, featureName: dk2:prod_subtype_3236, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3236
+featureId : 145, featureName: dk2:prod_subtype_2278, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2278
+featureId : 143, featureName: dk2:prod_subtype_4194, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4194
+featureId : 142, featureName: dk2:prod_subtype_4005, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4005
+featureId : 141, featureName: dk2:prod_subtype_4155, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4155
+featureId : 140, featureName: dk2:prod_subtype_3266, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3266
+featureId : 139, featureName: dk2:prod_subtype_2055, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 138, featureName: dk2:prod_subtype_4141, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4141
+featureId : 137, featureName: dk2:prod_subtype_3344, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3344
+featureId : 136, featureName: dk2:prod_subtype_2163, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2163
+featureId : 135, featureName: dk2:prod_subtype_3276, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3276
+featureId : 134, featureName: dk2:prod_subtype_4185, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4185
+featureId : 133, featureName: dk2:prod_subtype_3163, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3163
+featureId : 132, featureName: dk2:prod_subtype_4150, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4150
+featureId : 130, featureName: dk2:prod_subtype_3375, train auc: 0.5004995004995005, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0003, precision: 0.0, f1: nan
+
+featureId : 129, featureName: dk2:prod_subtype_3021, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3021
+featureId : 128, featureName: dk2:prod_subtype_2246, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2246
+featureId : 126, featureName: dk2:prod_subtype_4138, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4138
+featureId : 125, featureName: dk2:prod_subtype_4093, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4093
+featureId : 124, featureName: dk2:prod_subtype_2235, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2235
+featureId : 123, featureName: dk2:prod_subtype_4196, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4196
+featureId : 122, featureName: dk2:prod_subtype_2250, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2250
+featureId : 120, featureName: dk2:prod_subtype_4139, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4139
+featureId : 119, featureName: dk2:prod_subtype_2145, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2145
+featureId : 118, featureName: dk2:prod_subtype_3101, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3101
+featureId : 117, featureName: dk2:prod_subtype_3066, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3066
+featureId : 116, featureName: dk2:prod_subtype_2182, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2182
+featureId : 115, featureName: dk2:prod_subtype_2024, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2024
+featureId : 114, featureName: dk2:prod_subtype_2071, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2071
+featureId : 113, featureName: dk2:prod_subtype_2017, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2017
+featureId : 111, featureName: dk2:prod_subtype_3333, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3333
+featureId : 109, featureName: dk2:prod_subtype_4197, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4197
+featureId : 108, featureName: dk2:prod_subtype_4183, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0002, precision: 0.0, f1: nan
+
+featureId : 106, featureName: dk2:prod_subtype_3077, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 105, featureName: dk2:prod_subtype_2254, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2254
+featureId : 104, featureName: dk2:prod_subtype_3279, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3279
+featureId : 102, featureName: dk2:prod_subtype_2140, train auc: 0.499944438270919, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0, precision: nan, f1: nan
+
+featureId : 101, featureName: dk2:prod_subtype_4091, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4091
+featureId : 97, featureName: dk2:prod_subtype_2275, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2275
+featureId : 96, featureName: dk2:prod_subtype_3278, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3278
+featureId : 94, featureName: dk2:prod_subtype_2227, train auc: 0.5001105683959335, train f1: 0.18198345604945002
+tpr: 0.0, fpr: 0.0014, precision: 0.0, f1: nan
+
+featureId : 86, featureName: dk2:prod_subtype_3167, train auc: 0.500999000999001, train f1: 0.18198345604945002
+tpr: 0.0001, fpr: 0.0, precision: 1.0, f1: 0.00019998000199980003
+
+featureId : 84, featureName: dk2:prod_subtype_4017, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4017
+featureId : 83, featureName: dk2:prod_subtype_2056, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2056
+featureId : 82, featureName: dk2:prod_subtype_4109, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4109
+featureId : 72, featureName: dk2:prod_subtype_2052, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_2052
+featureId : 63, featureName: dk2:prod_subtype_4151, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4151
+featureId : 30, featureName: dk2:prod_subtype_3024, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3024
+featureId : 28, featureName: dk2:prod_subtype_3128, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_3128
+featureId : 27, featureName: dk2:prod_subtype_4016, train auc: -1, train f1: -1
+Skipping invalid feature: dk2:prod_subtype_4016
